@@ -1,0 +1,7 @@
+# Runtime dependencies
+streamlit==1.67.0
+faster-whisper==1.2.1
+yt-dlp==2026.10.26
+
+# Test dependency
+pytest>=8,<10
